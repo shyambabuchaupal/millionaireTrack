@@ -1,0 +1,9 @@
+<?php
+define("RZYSECRATE",'yz8uhzl41wlcTmtGSVGxPdCm');
+define("RZYKEY",'rzp_test_AHKDRQ9cjHcJdd');
+define("displayCurrency",'INR');
+define("HOST",'localhost');
+define("USER",'root');
+define("Password",'');
+define("DATABASE",'mt_best');
+?>

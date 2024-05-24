@@ -1,0 +1,11 @@
+<?php
+define("RZYSECRATE",'fU3kzbl7kAE8oKxLMlsvsKwN');
+define("RZYKEY",'rzp_test_D7rRCQlw7UP8OB');
+define("CASHFREE-x-client-id",'159201e5226c7130cb503859ef102951');
+define("CASHFREE-x-client-secret",'c70a697f4db1ce7d8b99314e828a71b570fdda07');
+define("displayCurrency",'INR');
+define("HOST",'localhost');
+define("USER",'root');
+define("Password",'');
+define("DATABASE",'mt_best');
+?>

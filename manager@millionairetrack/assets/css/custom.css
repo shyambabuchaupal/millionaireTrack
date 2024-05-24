@@ -1,0 +1,29 @@
+.dash-res-extra{
+    display: none;
+}
+
+@media (max-width: 500px) {
+    .dash-res{
+        display: none;
+    }
+    .dash-res-extra{
+        display: block;
+    }
+    .dash-res-row{
+        flex-flow: column-reverse;
+    }
+    .dash-res-user{
+        display: flex;
+        justify-content: space-between;
+        margin: 0px !important;
+    }
+    .dash-p-4{
+        padding: 10px !important;
+    }
+    .dash-res-p3{
+        padding: 10px !important;
+    }
+    .dash-res-mt-4{
+        margin: 5px 0px !important;
+    }
+}
